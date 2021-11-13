@@ -1,0 +1,76 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "ıslak kek",
+      "author": "esra",
+      "ingredients": "2 adet yumurta, 1 su bardağı toz şeker ,1 su bardağı süt",
+      "servesNumber": 4,
+      "description": "Browni tadında nefis bir ıslak kek tarifi, bir çok ıslak kek tarifinde üzerine dökülen sosta bulunan çiğ yumurta nedeni ile tarifi denemek konusunda sıkıntı yaşayanlara göre güzel bir ıslak kek, beğeneceğinizi düşünüyorum. Yapması oldukça kolay Islak Kek Tarifi nasıl yapılır?  yapılışını daha detaylı görmek için videoyu izlemelisiniz. Fotoğraflarınızı bizimle paylaşmayı unutmayın:)",
+      "directions": "Kek için yumurta ve şekeri çırpın yağ ve sütü ekleyip karıştırın ,Vanilya, kabartma tozu, un ve kakaoyu ekleyip karıştır, 180 derecede pişir. Piştikten sonra kek sıcak sos soğuk olacak sosu kekin üstüne dökün, yicene sosunu çektikten sonra servis edebilirsiniz afiyet olsun",
+      "totalTime": 20,
+      "image": "https://i.nefisyemektarifleri.com/2021/01/18/islak-kes-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": " Açık Tost",
+      "author": "Nefis Yemek Tarifleri",
+      "ingredients": "4 yarım sandviç ekmeği,1, 5 yemek kaşığı salça,1 dış rendelenmiş sarımsak, 1 dış rendelenmiş sarımsak, 1 çay kaşığı ucuyla pul biber",
+      "servesNumber": 3,
+      "directions": "Sosu için bütün malzemeleri uygun bir kasede karıştırın., Ekmeklerin üzerine paylaştırın ve her yerine gelecek şekilde sürün, Kaşar peyniri koyun domates ve sucuğu yerleştirin, Tost makinesine koyun üzerine yağlı kağıt yerleştirip kaşar eriyene kadar pişirin. Denyecek olanlara şimdiden Afiyet olsun",
+      "totalTime": 10,
+      "image": "https://i.nefisyemektarifleri.com/2019/11/30/parmak-yedirten-acik-tost.jpg",
+      "description": "Browni tadında nefis bir ıslak kek tarifi, bir çok ıslak kek tarifinde üzerine dökülen sosta bulunan çiğ yumurta nedeni ile tarifi denemek konusunda sıkıntı yaşayanlara göre güzel bir ıslak kek, beğeneceğinizi düşünüyorum. Yapması oldukça kolay Islak Kek Tarifi nasıl yapılır?  yapılışını daha detaylı görmek için videoyu izlemelisiniz. Fotoğraflarınızı bizimle paylaşmayı unutmayın:)"
+    },
+    {
+      "id": 3,
+      "name": "Tavuk Şiş",
+      "author": "Nefis Yemek Tarifleri",
+      "description": "Özel Sosuyla Fırında Tavuk Şiş",
+      "ingredients": "4 yarım sandviç ekmeği,1, 5 yemek kaşığı salça,1 dış rendelenmiş sarımsak, 1 dış rendelenmiş sarımsak, 1 çay kaşığı ucuyla pul biber",
+      "servesNumber": 3,
+      "directions": "Sosu için bütün malzemeleri uygun bir kasede karıştırın., Ekmeklerin üzerine paylaştırın ve her yerine gelecek şekilde sürün, Kaşar peyniri koyun domates ve sucuğu yerleştirin, Tost makinesine koyun üzerine yağlı kağıt yerleştirip kaşar eriyene kadar pişirin. Denyecek olanlara şimdiden Afiyet olsun",
+      "totalTime": 50,
+      "image": "https://i.nefisyemektarifleri.com/2021/10/13/ozel-sosuyla-firinda-tavuk-sis.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Yayla Çorbası",
+      "author": "Nefis Yemek Tarifleri",
+      "description": "Çorbanızın terbiyesini ilave etmeden önce çorbanın suyundan 1 kepçe kadar alınmalı ve terbiyeye ilave ederek ılınması sağlanmalıdır. Aksi halde terbiyenizin kesilebilir. Aynı zamanda terbiyeyi çorbaya direk ilave etmek yerine yavaş yavaş ilave etmeli ve karıştırmalısınız.",
+      "ingredients": "4 yarım sandviç ekmeği,1, 5 yemek kaşığı salça,1 dış rendelenmiş sarımsak, 1 dış rendelenmiş sarımsak, 1 çay kaşığı ucuyla pul biber",
+      "servesNumber": 4,
+      "directions": "Sosu için bütün malzemeleri uygun bir kasede karıştırın., Ekmeklerin üzerine paylaştırın ve her yerine gelecek şekilde sürün, Kaşar peyniri koyun domates ve sucuğu yerleştirin, Tost makinesine koyun üzerine yağlı kağıt yerleştirip kaşar eriyene kadar pişirin. Denyecek olanlara şimdiden Afiyet olsun",
+      "totalTime": 20,
+      "image": "https://i.nefisyemektarifleri.com/2014/06/yayla-corbasi-video-foto.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Bal kullanmasak olur mu?",
+      "postId": 3,
+      "author": "Fatma"
+    },
+    { "id": 2, "body": "Çok güzel !", "postId": 3, "author": "Sümeyya" },
+    {
+      "id": 3,
+      "body": "1 çay bardağı pirinç kesinlikle fazla arkadaşlar, yarım çay bardağı pirinci 2 su bardağı suyla haşladım. sosunu da tencerenin içine boşalttım. güzel oldu. yapacak arkadaşlar dikkate almalı yazdığımı. afiyet olsun",
+      "postId": 4,
+      "author": "Gülşah"
+    }
+  ],
+  "favs": [
+    {
+        "id": 1,
+        "name": "ıslak kek",
+        "author": "esra",
+        "ingredients": "2 adet yumurta, 1 su bardağı toz şeker ,1 su bardağı süt",
+        "servesNumber": 4,
+        "description": "Browni tadında nefis bir ıslak kek tarifi, bir çok ıslak kek tarifinde üzerine dökülen sosta bulunan çiğ yumurta nedeni ile tarifi denemek konusunda sıkıntı yaşayanlara göre güzel bir ıslak kek, beğeneceğinizi düşünüyorum. Yapması oldukça kolay Islak Kek Tarifi nasıl yapılır?  yapılışını daha detaylı görmek için videoyu izlemelisiniz. Fotoğraflarınızı bizimle paylaşmayı unutmayın:)",
+        "directions": "Kek için yumurta ve şekeri çırpın yağ ve sütü ekleyip karıştırın ,Vanilya, kabartma tozu, un ve kakaoyu ekleyip karıştır, 180 derecede pişir. Piştikten sonra kek sıcak sos soğuk olacak sosu kekin üstüne dökün, yicene sosunu çektikten sonra servis edebilirsiniz afiyet olsun",
+        "totalTime": 20,
+        "image": "https://i.nefisyemektarifleri.com/2021/01/18/islak-kes-1.jpg"
+      }
+  ]
+}
